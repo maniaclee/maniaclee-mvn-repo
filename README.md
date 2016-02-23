@@ -1,6 +1,6 @@
-# psyco4j-mvn-repo
+# maniaclee-mvn-repo
 
-psyco4j  maven repository
+maniaclee  maven repository
 
 ``` xml
 	<dependencies>
